@@ -3,5 +3,6 @@ export default{
     SUBHEADING:'#d1d5db',
     BACKGROUND:'#151515',
     BLUE:'#2ba6ff',
-    CHAT_BACKGROUND:'#272727'
+    CHAT_BACKGROUND:'#272727',
+    BORDER_COLOR: '#333333',
 }

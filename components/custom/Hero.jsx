@@ -46,6 +46,7 @@ function Hero() {
             key={index}
             onClick={()=>onGenerate(suggestion)}
             className="p-1 px-2 border rounded-full text-sm text-gray-400 hover:text-white cursor-pointer"
+            style={{borderColor: Colors.BORDER_COLOR }}
           >
             {suggestion}
           </h2>
