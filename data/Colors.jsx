@@ -5,4 +5,5 @@ export default{
     BLUE:'#2ba6ff',
     CHAT_BACKGROUND:'#272727',
     BORDER_COLOR: '#333333',
+    TEXT_SECUNDARY: '#333333',
 }
